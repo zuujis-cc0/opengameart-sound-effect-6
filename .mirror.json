@@ -1,5 +1,17 @@
 {
- "assets": {},
+ "assets": {
+  "space-flight-sound-effects": "320311753832a77598adb6e05fc40a08bea1c7e1",
+  "space-ships-sounds-and-background-music": "3e1ba4b61b90ddf05d26449586bfa749b759138e",
+  "teapot-sounds": "b98e909d121299a2144a945b99dbbefd2096162d",
+  "the-line-between-the-living-and-dead": "3bd89d45f592413d9089a7b6af4bbd5ffcd7fa81",
+  "tiny-creatures-sounds": "05763cac0ac5e150eaf359f83753bb82525d5102",
+  "twangy-ui-sounds": "5a7c66a679e6a597f09a25619ee4153b4d96e6eb",
+  "ui-click-sounds-sci-fi": "39f4d72a084e0c035c57bacdde12e91f3fc63e6d",
+  "underwater-or-space-engine-rumble": "0928b527e9d48752a123e41e30aaede1a4ed95dd",
+  "various-sound-effects-0": "04c30fe8784224c2fc9a04265dea5262661c690f",
+  "victory-6": "9b44acb36dc727e4fc9015dd75b54f4f5e6c71f5",
+  "vinyl": "ffecc8bf37eda3365d5cb3f18c3a52369a288c4b"
+ },
  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
  "site": "https://opengameart.org",
  "source": "opengameart",
